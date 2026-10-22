@@ -1,0 +1,10 @@
+{
+  "name": "ludo-king-pro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html dist/ 2>/dev/null || echo 'No index.html yet'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
